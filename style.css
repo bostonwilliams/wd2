@@ -129,6 +129,21 @@ margin:0;
     "footer";   
     }
 
+container2 { /*for blog.html*/
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "top"
+    "middle"
+    "bottom"
+    "footer";
+    }
+
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -200,17 +215,3 @@ margin:0;
 
 	}
 
-container2 { /*for blog.html*/
-  display: grid;
-  grid-template-columns:100%;
-  grid-gap:.5em;
-  margin:1%;
-  grid-template-areas:
-    "header"
-    "nav"
-    "main"
-    "top"
-    "middle"
-    "bottom"
-    "footer";
-    }
