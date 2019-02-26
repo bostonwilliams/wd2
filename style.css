@@ -144,6 +144,7 @@ container2 { /*for blog.html*/
     "footer";
     }
 
+
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -182,6 +183,20 @@ container2 { /*for blog.html*/
     "footer footer";
     }
 
+@media only screen and (min-width: 480px)	
+container2 {/*for blog.html*/
+  display:grid;
+  grid-template-columns: auto 1fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+  "header header"
+  "nav main"
+  "top top"
+  "middle middle"
+  "bottom bottom"
+  "footer footer"
+  }
 
 /* Below will change from hamburger menu to side navigation*/
   
@@ -214,4 +229,17 @@ container2 { /*for blog.html*/
 	
 
 	}
+
+container2 {
+ display:grid;
+ grid-template-columns:auto 1fr 1.5fr;
+ grid-gap:.5em;
+ margin:1%;
+ grid-template-areas:
+"header header header"
+"nav main top"
+"nav main middle"
+"nav main bottom"
+"footer footer footer"
+}
 
