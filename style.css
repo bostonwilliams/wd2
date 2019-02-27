@@ -143,6 +143,7 @@ margin:auto;
 .top p{
 color:white;
 padding: 1% 2%;
+font-size: 1em;
 }
 
 .top h2{
@@ -153,6 +154,7 @@ text-align:center;
 .middle p{
 color:white;
 padding: 1% 2%;
+font-size:1em;
 }
 
 .middle h2{
@@ -168,6 +170,7 @@ text-align:center;
 .bottom p{
 color:white;
 padding: 1% 2%;
+font-size:1em;
 }
 
 /*---------------------------Mobile Layout Styles----------------------------*/
