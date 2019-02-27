@@ -184,7 +184,7 @@ font-size:1em;
     "footer";   
     }
 
-container2 { /*for blog.html*/
+.container2 { /*for blog.html*/
   display: grid;
   grid-template-columns:100%;
   grid-gap:.5em;
