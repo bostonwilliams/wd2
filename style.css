@@ -118,21 +118,18 @@ margin:0;
 .top{
 grid-area:top;
 background:rgba(0,0,0,.2);
-padding:5px;
 margin:0;	
 }
 
 .middle{
 grid-area:middle;
 background:rgba(0,0,0,.2);
-padding:5px;
 margin:0;
 }
 
 .bottom{
 grid-area:bottom;
 background:rgba(0,0,0,.2);
-padding:5px;
 margin:0;	
 }
 
