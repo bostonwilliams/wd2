@@ -116,21 +116,21 @@ margin:0;
 }
 
 .top{
-grid-area:article;
+grid-area:top;
 background:rgba(0,0,0,.2);
 padding:5px;
 margin:0;	
 }
 
 .middle{
-grid-area:article;
+grid-area:middle;
 background:rgba(0,0,0,.2);
 padding:5px;
 margin:0;
 }
 
 .bottom{
-grid-area:article;
+grid-area:bottom;
 background:rgba(0,0,0,.2);
 padding:5px;
 margin:0;	
@@ -209,7 +209,7 @@ container2 { /*for blog.html*/
     }
 
 @media only screen and (min-width: 480px)	
-container2 {/*for blog.html*/
+.container2 {/*for blog.html*/
   display:grid;
   grid-template-columns: auto 1fr;
   grid-gap:.5em;
@@ -255,7 +255,7 @@ container2 {/*for blog.html*/
 
 	}
 
-container2 {
+.container2 {
  display:grid;
  grid-template-columns:auto 1fr 1.5fr;
  grid-gap:.5em;
