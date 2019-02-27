@@ -140,6 +140,36 @@ margin:0;
 margin:auto;	
 }
 
+.top p{
+color:white;
+text-align:center;
+}
+
+.top h2{
+color:navy;
+text-align:center;
+}
+
+.middle p{
+color:white;
+text-align:center;
+}
+
+.middle h2{
+color:navy;
+text-align:center;
+}
+
+.bottom h2{
+color:navy;
+text-align:center;
+}
+
+.bottom p{
+color:white;
+text-align:center;
+}
+
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
   display: grid;
