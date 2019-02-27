@@ -283,8 +283,6 @@ font-size:1em;
     }
 	
 
-	}
-
 .container2 {
  display:grid;
  grid-template-columns:auto 1fr 1.5fr;
