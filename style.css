@@ -142,6 +142,7 @@ margin:auto;
 
 .top p{
 color:white;
+padding: 1% 2%;
 }
 
 .top h2{
@@ -151,6 +152,7 @@ text-align:center;
 
 .middle p{
 color:white;
+padding: 1% 2%;
 }
 
 .middle h2{
@@ -165,6 +167,7 @@ text-align:center;
 
 .bottom p{
 color:white;
+padding: 1% 2%;
 }
 
 /*---------------------------Mobile Layout Styles----------------------------*/
