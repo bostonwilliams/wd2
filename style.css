@@ -146,6 +146,7 @@ font-size: 1em;
 .top h2{
 color:navy;
 text-align:center;
+margin:0;
 }
 
 .middle p{
@@ -157,11 +158,13 @@ font-size:1em;
 .middle h2{
 color:navy;
 text-align:center;
+margin:0;
 }
 
 .bottom h2{
 color:navy;
 text-align:center;
+margin:0;
 }
 
 .bottom p{
