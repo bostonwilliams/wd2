@@ -137,23 +137,17 @@ margin:0;
 margin:auto;	
 }
 
-.top p{
+article p{
 color:white;
-padding: 1% 2%;
-font-size: 1em;
-}
+padding:1% 2%;
+font-size:1em;
+}	
 
 .top h2{
 color:navy;
 text-align:center;
 padding: 1% 2%;
 margin:0;
-}
-
-.middle p{
-color:white;
-
-font-size:1em;
 }
 
 .middle h2{
@@ -170,11 +164,6 @@ padding: 1% 2%;
 margin:0;
 }
 
-.bottom p{
-color:white;
-padding: 1% 2%;
-font-size:1em;
-}
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
