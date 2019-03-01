@@ -181,6 +181,20 @@ background:rgba(0,0,0,.2);
 margin:0;
 }
 
+figcaption{
+color:navy;
+font-weight:bold;
+padding:5px;
+}
+
+figure img{
+padding-top:10px;	
+}
+
+figure{
+margin:0;	
+}
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
