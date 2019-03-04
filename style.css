@@ -238,6 +238,11 @@ grid-template-areas:
    "footer"
 }
 
+.subgrid layout{
+"section"
+"fig1"
+}
+
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -302,6 +307,11 @@ grid-template-areas:
    "footer footer"
 }
 
+.subgrid layout{
+"section"
+"fig1"
+}
+
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -356,5 +366,8 @@ grid-template-areas:
    "fig2 fig2"
    "footer footer"
 }
-
-
+	
+.subgrid layout{
+"section fig1"
+}
+}
