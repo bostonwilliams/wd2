@@ -196,6 +196,10 @@ margin:0;
 text-align:center;
 }
 
+.subgrid{
+display:grid;	
+}
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
