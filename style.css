@@ -320,7 +320,7 @@ margin:1%;
 grid-template-areas:
 "section"
 "fig2"
-
+}
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -376,9 +376,8 @@ grid-template-areas:
    "footer footer"
 }
 	
-.subgrid layout{
+.nestedgrid{
 display:grid;
-grid-template-columns:100%;
 grid-gap:.5em;
 margin:1%;
 grid-template-areas:
