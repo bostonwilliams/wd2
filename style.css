@@ -378,7 +378,6 @@ grid-template-areas:
 	
 .nestedgrid{
 display:grid;
-grid-template-columns:auto 3fr;
 grid-gap:.5em;
 margin:1%;
 grid-template-areas:
