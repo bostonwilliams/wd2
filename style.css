@@ -164,10 +164,6 @@ padding: 1% 2%;
 margin:0;
 }
 
-.nestedgrid layout{
-"section"
-"fig1"
-}
 
 .fig1{
 grid-area:fig1;	
@@ -196,8 +192,8 @@ margin:0;
 text-align:center;
 }
 
-.nestedgrid{
-display:grid;	
+section {
+grid-area:section;
 }
 
 
@@ -242,7 +238,12 @@ grid-template-areas:
    "footer"
 }
 
-.subgrid layout{
+.nestedgrid {
+display:grid;
+grid-template-columns:100%;
+grid-gap:.5em;
+margin:1%;
+grid-template-areas:
 "section"
 "fig1"
 }
@@ -311,10 +312,14 @@ grid-template-areas:
    "footer footer"
 }
 
-.subgrid layout{
+.nestedgrid{
+display:grid;
+grid-template-columns:100%;
+grid-gap:.5em;
+margin:1%;
+grid-template-areas:
 "section"
-"fig1"
-}
+"fig2"
 
 /* Below will change from hamburger menu to side navigation*/
   
@@ -372,6 +377,11 @@ grid-template-areas:
 }
 	
 .subgrid layout{
+display:grid;
+grid-template-columns:100%;
+grid-gap:.5em;
+margin:1%;
+grid-template-areas:
 "section fig1"
 }
 }
