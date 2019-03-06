@@ -164,7 +164,7 @@ padding: 1% 2%;
 margin:0;
 }
 
-.subgrid layout{
+.nestedgrid layout{
 "section"
 "fig1"
 }
@@ -196,7 +196,7 @@ margin:0;
 text-align:center;
 }
 
-.subgrid{
+.nestedgrid{
 display:grid;	
 }
 
