@@ -195,10 +195,11 @@ grid-area:section;
 }
 
 audio {
- max-width: 100%; 
+ max-width:100%; 
 }
+
 video { 
-  max-width:  100%;
+  max-width:100%;
   height:auto;
 }
 
