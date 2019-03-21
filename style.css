@@ -229,8 +229,10 @@ display:grid;
 display:grid;	
 }
 
-main p{
-margin:0;	
+.button{
+padding:5px;
+background-color:navy;
+color:lightseagreen;
 }
 
 /*---------------------------Mobile Layout Styles----------------------------*/
