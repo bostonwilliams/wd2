@@ -222,11 +222,11 @@ form {
 }
 
 .div1{
-display:grid;	
+grid-area:div1;	
 }
 
 .div2{
-display:grid;	
+grid-area:div2;	
 }
 
 .button{
@@ -289,8 +289,6 @@ grid-template-areas:
 .nestedgrid2{
 display:grid;
 grid-template-columns: auto 20%;
-grid-gap:.5em;
-margin:1%;
 grid-template-areas:
 "div1 div2"
 }
