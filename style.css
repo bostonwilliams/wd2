@@ -286,9 +286,11 @@ grid-template-areas:
 "fig1"
 }
 
-.nestedgrid2{
+.nestedgrid2 {
 display:grid;
-grid-template-columns: auto 20%;
+grid-template-columns:100%;
+grid-gap:.5em;
+margin:1%;
 grid-template-areas:
 "div1 div2"
 }
