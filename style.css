@@ -380,7 +380,7 @@ grid-template-areas:
 "fig1"
 }
 	
-.nestedgrid{
+.nestedgrid2{
 display:grid;
 grid-template-columns:100%;
 grid-gap:.5em;
