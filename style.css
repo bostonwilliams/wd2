@@ -292,7 +292,8 @@ grid-template-columns:100%;
 grid-gap:.5em;
 margin:1%;
 grid-template-areas:
-"div1 div2"
+"div1"
+"div2"
 }
 
 .container4{
