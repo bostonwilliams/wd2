@@ -235,6 +235,18 @@ background-color:navy;
 color:lightseagreen;
 }
 
+.phone{
+background-color:darkseagreen;
+color:navy;
+width:40%;
+}
+
+.call{
+background-color:navy;
+color:darkseagreen;
+width:40%;
+}
+
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
   display: grid;
