@@ -235,18 +235,23 @@ background-color:navy;
 color:lightseagreen;
 }
 
-.phone{
-background-color:darkseagreen;
-color:navy;
-width:40%;
-text-alignL:center;
+.call {
+    color:navy;
+    text-align:center;
+    font-size:2em;
+    background-color:darkseagreen;
+    width:60%;
+    padding: 5px 0 0 0;
+    margin:10px auto 0 auto;
+    cursor:pointer;
 }
 
-.call{
-background-color:navy;
-color:darkseagreen;
-width:40%;
-text-align:center;
+.phone{
+    color:darkseagreen;
+    background-color:navy;
+    padding:5px;
+    text-align:center;
+    font-size:.75em;
 }
 
 /*---------------------------Mobile Layout Styles----------------------------*/
