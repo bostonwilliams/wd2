@@ -239,12 +239,14 @@ color:lightseagreen;
 background-color:darkseagreen;
 color:navy;
 width:40%;
+text-alignL:center;
 }
 
 .call{
 background-color:navy;
 color:darkseagreen;
 width:40%;
+text-align:center;
 }
 
 /*---------------------------Mobile Layout Styles----------------------------*/
