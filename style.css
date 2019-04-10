@@ -252,7 +252,13 @@ color:lightseagreen;
     padding:5px;
     text-align:center;
     font-size:.75em;
+    display:none;
 }
+
+.shadow {
+   box-shadow: 10px 10px 5px #888888;
+}
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
