@@ -230,9 +230,7 @@ grid-area:div2;
 }
 
 .button{
-padding:5px;
-background-color:navy;
-color:lightseagreen;
+
 }
 
 .call {
@@ -256,7 +254,10 @@ color:lightseagreen;
 }
 
 .shadow {
-   box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888888;
+  padding:5px;
+  background-color:navy;
+  color:lightseagreen;
 }
 
 
