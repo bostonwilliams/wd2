@@ -3,7 +3,7 @@ $(document).ready(function() {
         $('#flex-nav ul').toggleClass('open');
       });
       $('.toggleMain').click(function() {
-    $('.shadow').addClass('shadow')
-    $('.shadow').removeClass('shadow')
+    $(this).addClass('shadow')
+    $(this).removeClass('shadow')
       });       
     });
