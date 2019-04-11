@@ -3,7 +3,7 @@ $(document).ready(function() {
         $('#flex-nav ul').toggleClass('open')
             });
       $('.toggle-button).on('click', () => {  
-        $('.phone').toggle()
+        $('.call').toggle('.phone')
             });       
     });
  
