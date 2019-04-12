@@ -5,4 +5,4 @@ $(document).ready(function() {
       $('.toggle-button').on('click', => {
         $('.call').show('.phone')
         $('.phone').show()
-    });
+    }); 
