@@ -2,7 +2,6 @@ $(document).ready(function() {
       $('.toggleNav').click(function() {
         $('#flex-nav ul').toggleClass('open')
             });
-      $('.toggle-button').on('click', => {
-        $('.call').show('.phone')
-        $('.phone').show()
+      $('.phone').click(function() {
+        $(this).show()
     }); 
