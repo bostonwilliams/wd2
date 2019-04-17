@@ -261,7 +261,7 @@ grid-area:div2;
 }
 
 .phone.open{
-display:show;	
+display:grid;	
 }
 
 
