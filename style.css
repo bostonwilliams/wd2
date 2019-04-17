@@ -260,6 +260,10 @@ grid-area:div2;
   color:lightseagreen;
 }
 
+.phone.open{
+display:show;	
+}
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
