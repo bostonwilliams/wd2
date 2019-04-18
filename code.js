@@ -3,6 +3,9 @@ $(document).ready(function() {
         $('#flex-nav ul').toggleClass('open')
             })
        $('.call').on('click', () => {
-     $('.phone').toggleClass('show')
-    $('.call').toggleClass('button-active')
+     $('.phone').toggleClass()
+    $('.call').toggleClass()
+  })  
+  $('.button').on('click', () => {
+     $('.shadow').fadeOut('fast')
   })  
