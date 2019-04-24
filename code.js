@@ -2,7 +2,10 @@
       $('.toggleNav').click(function() {
         $('#flex-nav ul').toggleClass('open');
       });
-        $('.call').on('click', => {
-        $(this).show('phone')              
-                      });
+    
+    $('.phone').toggle();
+    
+        $('.call').on('click', () => {
+        $('.phone').slideToggle('fast')              
+              });
     });
