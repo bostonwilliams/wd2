@@ -250,7 +250,6 @@ grid-area:div2;
     padding:5px;
     text-align:center;
     font-size:.75em;
-    display:none;
 }
 
 .shadow {
@@ -258,10 +257,6 @@ grid-area:div2;
   padding:5px;
   background-color:navy;
   color:lightseagreen;
-}
-
-.phone show{
-display:grid;	
 }
 
 
